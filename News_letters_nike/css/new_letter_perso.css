@@ -1,0 +1,46 @@
+*{
+    margin: 0 auto;
+    color: aqua, greenyellow;
+    
+    
+}
+td{
+    border: 2px solid yellow;
+    width: 500px; 
+    height:300px;
+    text-align:center; 
+    border:3px solid gray; 
+    font-size:40pt;
+    align: center;
+    font-size: 40pt;
+}
+a{
+    font-size: 30pt;
+    text-align: left;
+    align:left;
+    color: aqua;
+}
+.petit{
+    font-size: 15pt;
+    color: greenyellow;
+    border: 0;
+    margin:0 auto;
+}
+
+.class{
+    color: aqua;    
+}
+.titre{
+    color: aquamarine;
+    font-size: 50pt;
+  
+}
+img{
+    align: center;
+}
+.titrenike{
+    color: linear-gradient pink;
+    font-size: 70pt;
+    text-align: inherit, center;
+}
+
